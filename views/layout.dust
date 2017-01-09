@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Template app</title>
+  </head>
+  <body>
+      {+body /}
+  </body>
+</html>
