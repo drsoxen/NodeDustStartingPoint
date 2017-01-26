@@ -1,12 +1,12 @@
 {
-  "name": "recipebook",
-  "version": "1.0.0",
-  "description": "Recipes Manager",
+  "name": "nodeduststartingpoint",
+  "version": "0.0.1",
+  "description": "Starting point for node applications using dust.",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Vasyl Babala",
+  "author": "Crabs Zimbabwe Inc.",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.16.0",
